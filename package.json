@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/IlyaMurashkaSharekey/delete-labels-from-issue#readme",
   "dependencies": {
-    "@actions/core": "^1.2.4",
+    "@actions/core": "^1.11.1",
     "@actions/github": "^4.0.0",
     "@octokit/rest": "^18.0.3"
   }
